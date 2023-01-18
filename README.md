@@ -1,7 +1,7 @@
 # Mini Portfolio App with Create React App
 
 
-This project was the evaluation of the advanced React course of the Meta front-end developer certification.
+This project was the evaluation of the advanced React course of the Meta Front-End developer certification.
 
 ## Main features
 
